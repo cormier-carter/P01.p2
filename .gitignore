@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.exe
+/sequence_tests
+/experiment_tests
+/experiment
+/main
+__pycache__/
